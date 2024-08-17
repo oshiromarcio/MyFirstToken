@@ -17,10 +17,8 @@ Doing the steps above will execute the smart contract and will create the tokens
 
 This contract has been run at Sepolia Testnet and created the OSH coins. The implementation and transactions links are below:
 
-Address that received the coins:
-`
-0xb5EB90d4d52044e6Ed0605a31C5A4e8ea920670F
-`
+Address that received the coins (see at Sepolia Testnet):
+> 0xb5EB90d4d52044e6Ed0605a31C5A4e8ea920670F
 
 
 Transaction that created the OSH Coins [here](https://sepolia.etherscan.io/tx/0x548b26ae9be8447a650a2ef39e5597121bd887cc485e2bc43834339a0a8d4ec0).
